@@ -1,0 +1,119 @@
+#10thRow conversation
+
+[["c","JOIN","YellowFin9999!4b900b09@gateway/web/freenode/ip.37.200.98.5",["#10thRow"]]]
+
+Insider1 first joins 10thRow: 01:00:36 Oct 15, 2014 BST
+
+Name list (144.76.244.204 -> 192.168.0.62):
+    YellowFin9999 = 192.168.0.62 = Insider1
+    MonaSky
+    Saint99
+    Ir0nH4ck
+    @LiquidTrace
+
+Conversation:
+------- 01:01:12 Oct 15 ------
+    LiquidTrace : You figured out how to get our sample, good. 
+    YellowFin   : Yes, not too hard 
+    Saint99     : Oh a smarty pants
+    YellowFin   : Just pay attention
+    LiquidTrace : As we discussed we have more, lots more, you have what we asked for?
+    YellowFin   : Yes, send details here
+                : yellowfin9999@darkside.com
+    Saint99     : One would have thought we just got lucky with your username here on freenode,
+                  we already know your email address.
+    YellowFin   : Money is ready when you are.
+    MonaSky     : Good. Can not wait to do business with you
+    Saint99     : I know the business you want to do
+    Ir0nH4ck    : LOL
+                : Watch out for Mona.....
+    MonaSky     : What is that supposed to mean?
+    LiquidTrace : YellowFin9999, we will be in touch
+------ 01:04:41 Oct 15 ------
+
+================================================================================
+
+Email:
+Oct 15
+16:02 LiquidTrace@nowhereimportant.com -> YellowFin9999@darkside.com
+    "http://pastebin.com/GrgSV2xs"
+        -> gives IP address 14.144.1.39
+
+================================================================================
+
+Insider1 uses the IP address (14.144.1.39) from the pastebin:
+16:07 Oct 15
+
+HTTP:
+    192.168.0.62 -> 14.144.1.39 : GET / 
+    14.144.1.39 -> 192.168.0.62 : Returns page with links "/README.zip" and "/Data.zip"
+    192.168.0.62 -> 14.144.1.39 : GET /README.zip
+    14.144.1.39 -> 192.168.0.62 : Returns README.zip
+    192.168.0.62 -> 14.144.1.39 : GET /Data.zip
+    {14.144.1.39 -> 192.168.0.62 : Returns Data.zip} ???? 
+
+Files downloaded using TCP
+
+================================================================================
+
+18:10 LiquidTrace@nowhereimportant.com -> YellowFin9999@darkside.com
+    "Login to the 10th Row at 16:00 your time"
+
+===============================================================================
+
+YellowFin rejoins 10thRow later
+Name list:
+    YellowFin9999
+    KistalDarling
+    BitNinj4
+    CyberAngel
+    @LiquidTrace
+
+Conversation:
+------ 23:07:28 Oct 15 (16:07 in Mexico City) ------
+    LiquidTrace : You are late!!!
+    YellowFin   : Not by much, had some people in my office.
+    LiquidTrace : Well at least we are making progress now.
+                : First payment is due in 24 hours at the following account CH10 0 9260 00A20982734 1 
+    YellowFin   : got it
+    LiquidTrace : The second payment in 48 hours at LI10 00530 00A801862326
+    YellowFin   : You never said anything about a second payment
+    CyberAngel  : Didn't we now???
+                : Hummm
+                : I guess someone forgot to tell you that
+    BitNinj4    : Yeah, newbie on the block
+                : First payment is raw cost, 2nd payment is insurance
+                : I am gettng old these days, health care costs are going up
+    Kristal     : You are telling me
+    YellowFin   : 2 more minutes and the first payment will be done
+    Kristal     : Tick-toc
+    CyberAngel  : Yeah, we do not want you to be late again.
+                : I do not like it when people are late. Especially with money
+    BitNinj4    : Bad things come to those who are late
+    Kristal     : LOL, and yes, we know where you live
+    BitNinj4    : And why the interest in this data YellowFin?
+    YellowFin   : My grandma was taken by the South, and I want to get them back
+                : SYN $$
+    LiquidTrace : Checking....
+    BitNinj4    : Sounds like a good reason.
+                : Geo-politics are not my thing
+    Kristal     : You are more interesting in mass chaos
+    LiquidTrace : SYN-ACK $$, nukeThew0rld
+    YellowFin   : That works
+    CyberAngel  : Of course it does
+    Kristal     : we always follow through
+    CyberAngel  : Accept for when we don't, LOL
+    BitNinj4    : We will be watching you YellowFin
+    LiquidTrace : Remember the 2nd payment in 48 hours
+    YellowFin   : If the data is as good as your claim, payment will be later today via standard channels
+------ 23:18:46 Oct 15 ------
+
+===============================================================================
+
+Email: 
+Oct 16
+00:23 LiquidTrace@nowhereimportant.com -> YellowFin9999@darkside.com
+    "It was nice doing business with you, we will be in touch when we are ready to sell remote 
+    shell access to those facilities."
+    
+===============================================================================
